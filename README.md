@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/tahmidmahdi/tahmidmahdi/main/fbImg.jpg)
+(https://raw.githubusercontent.com/tahmidmahdi/tahmidmahdi/main/fbImg.jpg)
 ### Hi there 👋
 
 <!--

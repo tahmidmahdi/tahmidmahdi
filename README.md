@@ -1,5 +1,3 @@
-[![Header](https://raw.githubusercontent.com/tahmidmahdi/tahmidmahdi/tahmidmahdi/fbImg.jpg "Header")](https://some-url.dev/)
-
 ### Hi there 👋
 
 <!--

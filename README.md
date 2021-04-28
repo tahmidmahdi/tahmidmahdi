@@ -4,7 +4,7 @@
 
 ## I'm a Developer And Researcher
 - :boom: Writing Codes For Human
-- 🌱 I’m currently learning everything :v:
+- 🌱 currently learning everything :v:
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to Travel
 

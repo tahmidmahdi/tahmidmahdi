@@ -43,4 +43,4 @@
 [facebook]: https://www.facebook.com/tahmidalif.mahdi/
 [twitter]: https://twitter.com/tahmidz_alif
 [instagram]: https://www.instagram.com/tahmidalif/
-[linkedin]: https://www.linkedin.com/in/tahmid-alie-al-mahdi-b226b2143/
+[linkedin]: https://www.linkedin.com/in/tahmidmahdi/

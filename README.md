@@ -1,7 +1,7 @@
  <img align="right" width="500px" src="https://cdn.dribbble.com/users/2571505/screenshots/14197653/media/324034b1707825a543f520a98d30fdf2.gif" alt="" srcset=""> 
 
 <h1 align="center">Hi 👋, I'm Mahdi</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahmidmahdi&label=Profile%20views&color=0e75b6&style=flat" alt="tahmidmahdi" /> </p>
 

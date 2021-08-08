@@ -5,7 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tahmidmahdi&label=Profile%20views&color=0e75b6&style=flat" alt="tahmidmahdi" /> </p>
 
-- 🔭 I’m currently working on [Twurs-Tech-Shop](http://twurs-tech-shop.netlify.app/)
+<!-- - 🔭 I’m currently working on [Twurs-Tech-Shop](http://twurs-tech-shop.netlify.app/) -->
+- 🔭 I’m currently working on a Real Life Projects 
 
 - 🌱 I’m currently learning **TypeScript**
 

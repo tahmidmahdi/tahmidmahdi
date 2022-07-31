@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://www.tahmidmahdi.me/](https://www.tahmidmahdi.me/)
+- 👨‍💻 All of my projects are available at [https://tahmidmahdi.me/](https://tahmidmahdi.me/)
 
 - 📝 I regularly write articles on [https://tahmidmahdi.medium.com/](https://tahmidmahdi.medium.com/)
 
